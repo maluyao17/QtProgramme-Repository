@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/bg">
+        <file>png/mouse.png</file>
+        <file>png/didong_copy.png</file>
+    </qresource>
+    <qresource prefix="/mouse">
+        <file>png/hit.png</file>
+        <file>png/hitdown.png</file>
+        <file>png/mousehit.png</file>
+    </qresource>
+</RCC>

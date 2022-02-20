@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>图片2.png</file>
+        <file>图片3.png</file>
+        <file>图片4.png</file>
+        <file>图片8.png</file>
+    </qresource>
+</RCC>

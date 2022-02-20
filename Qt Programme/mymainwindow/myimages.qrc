@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>images/安徽.jpg</file>
+        <file>images/广东.jpg</file>
+    </qresource>
+</RCC>
